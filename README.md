@@ -8,9 +8,8 @@ Hello! Welcome to my github pages. In the pages, you can get an overview of all 
 	* leetcode
 * [Project](#project)
 	* Softhand  
-***
-Learned Knowlege  
-----
+	
+## Learned knowlege   
 ### Andrew Ng machine learning  
 This section mainly introduces my notes on Andrew Ng machining learning course. This note includes 11 weeks of machine learning course content and corresponding homework(The dataset was deleted form the job project). You can jump to a specific page by clicking on this picture.  
 ![]()  
