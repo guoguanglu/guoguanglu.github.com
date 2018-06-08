@@ -12,7 +12,7 @@ Hello! Welcome to my github pages. In the pages, you can get an overview of all 
 ## Learned knowledge
 ### Andrew Ng machine learning  
 This section mainly introduces my notes on Andrew Ng machining learning course. This note includes 11 weeks of machine learning course content and corresponding homework(The dataset was deleted form the job project). You can jump to a specific page by clicking on this picture.  
-![](/fig/fig_ML.jpg)  
+[![](/fig/fig_ML.jpg)][Andrew-Ng_ML_note]  
 
 
 ## Project  
@@ -45,4 +45,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Andrew-Ng_ML_note]: https://github.com/guoguanglu/Andrew-Ng_machine-learning 'jump to Andrew-Ng ML note'
