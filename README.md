@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
-
-THis is my first github .
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! Welcome to my github pages. In the pages, you can get an overview of all my projects and a summary of what I have learned.
 
 ### Markdown
 
