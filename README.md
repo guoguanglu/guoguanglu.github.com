@@ -1,7 +1,9 @@
-# Welcome to GitHub Pages
+# Welcome to GitHub Pages  
+
 Hello! Welcome to my github pages. In the pages, you can get an overview of all my projects and a summary of what I have learned. And you can view specific content by clicking on th appropriate link.
 
 ## Content  
+
 * Learned knowledge  
 	* [Andrew Ng machining learning](#andrew-ng-machine-learning)  
 	* [Markdown](#markdown)  
@@ -12,12 +14,19 @@ Hello! Welcome to my github pages. In the pages, you can get an overview of all 
 ## Learned knowledge  
 
 ### Andrew Ng machine learning  
+
 This section mainly introduces my notes on Andrew Ng machining learning course. This note includes 11 weeks of machine learning course content and corresponding homework(The dataset was deleted form the job project). You can jump to a specific page by clicking on this picture.  
 [![](/fig/fig_ML.jpg)][Andrew-Ng_ML_note]  
 
 ### Markdown  
+
 This is my note about markdown when I write README. This is a easy resource about markdown, which can help you write a simple markdown example. And write down some tips to make beginners avoid some mistakes. You can jump to a specific page by clicking on this picture.  
-[![](/fig/markdown_log.jpg)][markdown_note]
+[![](/fig/markdown_log.jpg)][markdown_note]  
+
+### Leetcode  
+
+You can find all my code of leetcode in this section. These codes are finished by using python2 language.  You can jump to a specific page by clicking on this picture.  
+[![](/fig/leetcode.jpg)][leetcode]  
 
 ## Project  
 
@@ -51,3 +60,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [Andrew-Ng_ML_note]: https://github.com/guoguanglu/Andrew-Ng_machine-learning 'jump to Andrew-Ng ML note page'
 [markdown_note]: https://github.com/guoguanglu/markdown-note 'jump to markdown note page'
+[leetcode]:
