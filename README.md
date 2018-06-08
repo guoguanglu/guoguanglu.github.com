@@ -1,9 +1,20 @@
-## Welcome to GitHub Pages
-Hello! Welcome to my github pages. In the pages, you can get an overview of all my projects and a summary of what I have learned.
+# Welcome to GitHub Pages
+Hello! Welcome to my github pages. In the pages, you can get an overview of all my projects and a summary of what I have learned. And you can view specific content by clicking on th appropriate link.
 
-### Markdown
+## Content  
+* [Learned Knowledge](#learned-knowledge)
+	* Andrew Ng machining learning  
+	* Markdown  
+	* leetcode
+* [Project](#project)
+	* Softhand  
+***
+Learned Knowlege  
+----
+### Andrew Ng machine learning  
+This section mainly introduces my notes on Andrew Ng machining learning course. This note includes 11 weeks of machine learning course content and corresponding homework(The dataset was deleted form the job project). You can jump to a specific page by clicking on this picture.  
+![]()  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
