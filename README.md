@@ -3,7 +3,7 @@ Hello! Welcome to my github pages. In the pages, you can get an overview of all 
 
 ## Content  
 * Learned knowledge  
-	* [Andrew Ng machining learning](#andrew-ng-machining-learning)  
+	* [Andrew Ng machining learning](#andrew-ng-machine-learning)  
 	* [Markdown](#markdown)  
 	* [Leetcode](#leetcode)
 * Project
