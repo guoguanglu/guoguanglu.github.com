@@ -2,18 +2,19 @@
 Hello! Welcome to my github pages. In the pages, you can get an overview of all my projects and a summary of what I have learned. And you can view specific content by clicking on th appropriate link.
 
 ## Content  
-* [Learned knowledge](#learned-knowledge)
-	* Andrew Ng machining learning  
-	* Markdown  
-	* leetcode
-* [Project](#project)
-	* Softhand  
+* Learned knowledge  
+	* [Andrew Ng machining learning](#andrew-ng-machining-learning)  
+	* [Markdown](#markdown)  
+	* [Leetcode](#leetcode)
+* Project
+	* [Softhand](#softhand)  
 	
 ## Learned knowledge
 ### Andrew Ng machine learning  
 This section mainly introduces my notes on Andrew Ng machining learning course. This note includes 11 weeks of machine learning course content and corresponding homework(The dataset was deleted form the job project). You can jump to a specific page by clicking on this picture.  
 [![](/fig/fig_ML.jpg)][Andrew-Ng_ML_note]  
 
+### Markdown
 
 ## Project  
 
