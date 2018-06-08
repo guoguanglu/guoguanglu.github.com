@@ -59,5 +59,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 [Andrew-Ng_ML_note]: https://github.com/guoguanglu/Andrew-Ng_machine-learning 'jump to Andrew-Ng ML note page'
-[markdown_note]: https://github.com/guoguanglu/markdown-note 'jump to markdown note page'
-[leetcode]:
+[markdown_note]: https://github.com/guoguanglu/markdown-note 'jump to markdown note page'  
+[leetcode]: https://github.com/guoguanglu/leetcode 'jump to leetcode page'  
