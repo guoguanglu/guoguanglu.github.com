@@ -9,6 +9,7 @@ Hello! Welcome to my github pages. In the pages, you can get an overview of all 
 	* [Markdown](#markdown)  
 	* [Leetcode](#leetcode)
 * Project
+	* [Titanic](#titanic)
 	* [Softhand](#softhand)  
 	
 ## Learned knowledge  
@@ -29,6 +30,12 @@ You can find all my code of leetcode in this section. These codes are finished b
 [![](/fig/leetcode.jpg)][leetcode]  
 
 ## Project  
+
+### Titanic  
+This is a small machine learning project, binary classification problem. By the project, you can learn the whole process of machine learning.
+The process mainly includes six parts:
+1. 
+
 
 ### Softhand  
 
