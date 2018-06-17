@@ -40,8 +40,8 @@ The process mainly includes six parts:
 4. Hyperparameters tuning   
 5. Predict results  
 
- I use SVM model to predict and get 0.80382 scores. You can jump to a specific page by clicking on this picture.
-[![](/fig/Titanic.jpg)][Titanic] 
+ I use SVM model to predict and get 0.80382 scores. You can jump to a specific page by clicking on this picture.  
+[![](/fig/Titanic.jpg)][Titanic]   
 
 
 ### Softhand  
