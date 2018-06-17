@@ -34,7 +34,14 @@ You can find all my code of leetcode in this section. These codes are finished b
 ### Titanic  
 This is a small machine learning project, binary classification problem. By the project, you can learn the whole process of machine learning.
 The process mainly includes six parts:
-1. 
+1. Data cleaning    
+2. Feature engineering   
+3. Basic model and evalution  
+4. Hyperparameters tuning   
+5. Predict results  
+
+ I use SVM model to predict and get 0.80382 scores. You can jump to a specific page by clicking on this picture.
+[![](/fig/Titanic.jpg)][Titanic] 
 
 
 ### Softhand  
@@ -42,3 +49,4 @@ The process mainly includes six parts:
 [Andrew-Ng_ML_note]: https://github.com/guoguanglu/Andrew-Ng_machine-learning 'jump to Andrew-Ng ML note page'
 [markdown_note]: https://github.com/guoguanglu/markdown-note 'jump to markdown note page'  
 [leetcode]: https://github.com/guoguanglu/leetcode 'jump to leetcode page'  
+[Titanic]: 
