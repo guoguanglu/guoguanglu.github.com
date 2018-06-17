@@ -49,4 +49,4 @@ The process mainly includes six parts:
 [Andrew-Ng_ML_note]: https://github.com/guoguanglu/Andrew-Ng_machine-learning 'jump to Andrew-Ng ML note page'
 [markdown_note]: https://github.com/guoguanglu/markdown-note 'jump to markdown note page'  
 [leetcode]: https://github.com/guoguanglu/leetcode 'jump to leetcode page'  
-[Titanic]: 
+[Titanic]: https://github.com/guoguanglu/Titanic 'jump to Titanic page'  
