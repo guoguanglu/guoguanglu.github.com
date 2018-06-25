@@ -6,6 +6,7 @@ Hello! Welcome to my github pages. In the pages, you can get an overview of all 
 
 * Learned knowledge  
 	* [Andrew Ng machining learning](#andrew-ng-machine-learning)  
+	* [ML relative resource](#ml_relative_resource)  
 	* [Markdown](#markdown)  
 	* [Leetcode](#leetcode)
 * Project
@@ -18,6 +19,11 @@ Hello! Welcome to my github pages. In the pages, you can get an overview of all 
 
 This section mainly introduces my notes on Andrew Ng machining learning course. This note includes 11 weeks of machine learning course content and corresponding homework(The dataset was deleted form the job project). You can jump to a specific page by clicking on this picture.  
 [![](/fig/fig_ML.jpg)][Andrew-Ng_ML_note]  
+
+### ML relative resource  
+
+The section mainly introduces the machine learning resources that I studied. They are all good materials and have helped me greatly in my studies.  You can jump to a specific page by clicking on this picture.  
+[![](/fig/ML_resource.jpg)][ML_resource]   
 
 ### Markdown  
 
@@ -50,3 +56,4 @@ The process mainly includes six parts:
 [markdown_note]: https://github.com/guoguanglu/markdown-note 'jump to markdown note page'  
 [leetcode]: https://github.com/guoguanglu/leetcode 'jump to leetcode page'  
 [Titanic]: https://github.com/guoguanglu/Titanic 'jump to Titanic page'  
+[ML_resourece]: 
