@@ -50,10 +50,14 @@ The process mainly includes six parts:
 [![](/fig/Titanic.jpg)][Titanic]   
 
 
-### Softhand  
+### Softhand   
+This is a 
+
+[![](/fig/softhand_log.png)][softhand]   
 
 [Andrew-Ng_ML_note]: https://github.com/guoguanglu/Andrew-Ng_machine-learning 'jump to Andrew-Ng ML note page'
 [markdown_note]: https://github.com/guoguanglu/markdown-note 'jump to markdown note page'  
 [leetcode]: https://github.com/guoguanglu/leetcode 'jump to leetcode page'  
 [Titanic]: https://github.com/guoguanglu/Titanic 'jump to Titanic page'  
 [ML_resource]: https://github.com/guoguanglu/ML_relative_resource 'jump to ML_resource'  
+[softhand]:
