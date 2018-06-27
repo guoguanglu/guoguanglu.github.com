@@ -70,4 +70,4 @@ This is a
 [leetcode]: https://github.com/guoguanglu/leetcode 'jump to leetcode page'  
 [Titanic]: https://github.com/guoguanglu/Titanic 'jump to Titanic page'  
 [ML_resource]: https://github.com/guoguanglu/ML_relative_resource 'jump to ML_resource'  
-[softhand]:
+[softhand]:https://github.com/guoguanglu/softhand  'jump to Softhand project'  
