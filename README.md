@@ -41,7 +41,7 @@ You can find all my code of leetcode in this section. These codes are finished b
 ## Project  
 
 
-Software
+## Software
 
 ### Titanic  
 This is a small machine learning project, binary classification problem. By the project, you can learn the whole process of machine learning.
@@ -56,7 +56,7 @@ The process mainly includes six parts:
 [![](/fig/Titanic.jpg)][Titanic]   
 
 
-hardware  
+## Hardware  
 
 ### Softhand   
 This is a project in our course design competition.By the project, our group won the first prize.This project uses the 3D printing technology to make the hand body mold, and then uses air actuatio to achieve the body's bending to grasp the object. And we also use Bluetooth to wirelessly transmit the information of digital recognition to the host computer. The flexible hand control body accepts signals to make corresponding digital gestures. If you want to learn more, you can click on the picture to jump to the corresponding page.  
