@@ -61,7 +61,7 @@ hardware
 ---  
 
 ### Softhand   
-This is a 
+This is a project in our course design competition.By the project, our group won the first prize.This project uses the 3D printing technology to make the hand body mold, and then uses air actuatio to achieve the body's bending to grasp the object. And we also use Bluetooth to wirelessly transmit the information of digital recognition to the host computer. The flexible hand control body accepts signals to make corresponding digital gestures. If you want to learn more, you can click on the picture to jump to the corresponding page.  
 
 [![](/fig/softhand_log.png)][softhand]   
 
