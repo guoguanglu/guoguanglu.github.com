@@ -10,8 +10,11 @@ Hello! Welcome to my github pages. In the pages, you can get an overview of all 
 	* [Markdown](#markdown)  
 	* [Leetcode](#leetcode)
 * Project
-	* [Titanic](#titanic)
-	* [Softhand](#softhand)  
+	* software  
+		* [Titanic](#titanic)  
+	* hardware  
+		* [Softhand](#softhand)  
+	
 	
 ## Learned knowledge  
 
@@ -37,6 +40,10 @@ You can find all my code of leetcode in this section. These codes are finished b
 
 ## Project  
 
+***
+Software
+---  
+
 ### Titanic  
 This is a small machine learning project, binary classification problem. By the project, you can learn the whole process of machine learning.
 The process mainly includes six parts:
@@ -49,6 +56,9 @@ The process mainly includes six parts:
  I use SVM model to predict and get 0.80382 scores. You can jump to a specific page by clicking on this picture.  
 [![](/fig/Titanic.jpg)][Titanic]   
 
+***  
+hardware  
+---  
 
 ### Softhand   
 This is a 
