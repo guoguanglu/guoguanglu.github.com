@@ -41,7 +41,11 @@ You can find all my code of leetcode in this section. These codes are finished b
 ## Project  
 
 
-## Software
+## Software  
+
+### HuaWei 2018 code craft  
+[![](/fig/Titanic.jpg)][Titanic]   
+
 
 ### Titanic  
 This is a small machine learning project, binary classification problem. By the project, you can learn the whole process of machine learning.
