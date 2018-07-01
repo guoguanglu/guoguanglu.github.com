@@ -73,4 +73,4 @@ This is a project in our course design competition.By the project, our group won
 [Titanic]: https://github.com/guoguanglu/Titanic 'jump to Titanic page'  
 [ML_resource]: https://github.com/guoguanglu/ML_relative_resource 'jump to ML_resource'  
 [softhand]:https://github.com/guoguanglu/softhand  'jump to Softhand project'  
-[huawei]:
+[huawei]:https://github.com/guoguanglu/HuaWei2018_codecraft 'jump to huawei'
