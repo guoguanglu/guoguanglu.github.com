@@ -44,7 +44,7 @@ You can find all my code of leetcode in this section. These codes are finished b
 ## Software  
 
 ### HuaWei 2018 code craft  
-[![](/fig/Titanic.jpg)][Titanic]   
+[![](/fig/huawei.png)][huawei]   
 
 
 ### Titanic  
@@ -73,3 +73,4 @@ This is a project in our course design competition.By the project, our group won
 [Titanic]: https://github.com/guoguanglu/Titanic 'jump to Titanic page'  
 [ML_resource]: https://github.com/guoguanglu/ML_relative_resource 'jump to ML_resource'  
 [softhand]:https://github.com/guoguanglu/softhand  'jump to Softhand project'  
+[huawei]:
